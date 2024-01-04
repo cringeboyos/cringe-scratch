@@ -3,6 +3,8 @@ Experience the killer tale of a lone centaur as he struggles with growing up and
 
 Online version: [working online version](https://scratch.mit.edu/projects/946822970)
 
+![screenshot](./screenshot.png)
+
 # Instructions
 Press the right arrow key to begin the ancreaible and imazing story!
 
