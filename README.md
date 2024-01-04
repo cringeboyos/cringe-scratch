@@ -7,4 +7,4 @@ This is a repo with dumb overcomplicated scratch projects.
 * [3D Viewer](./projects/3D-viewer/)
 * [Base64](./projects/base64/)
 * [Brainfuck](./projects/brainfack/)
-* [NFT Randomizer](./projects/NFT randomizer/)
+* [NFT Randomizer]('./projects/NFT randomizer/')
