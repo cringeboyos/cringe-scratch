@@ -8,3 +8,4 @@ This is a repo with dumb overcomplicated scratch projects.
 * [Base64](./projects/base64/)
 * [Brainfuck](./projects/brainfack/)
 * [NFT Randomizer](<./projects/NFT randomizer/>)
+* [cetaur cereal kileer.com.org.co.ok.cz.net](<./projects/cetaur cereal kileer.com.org.co.ok.cz.net/>)
